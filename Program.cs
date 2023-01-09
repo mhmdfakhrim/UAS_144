@@ -238,7 +238,7 @@ namespace UAS_144
                 }
                 catch (Exception)
                 {
-                    Console.WriteLine("chech for the values entered");
+                    Console.WriteLine("checkk for the values entered");
                 }
             }
         }
